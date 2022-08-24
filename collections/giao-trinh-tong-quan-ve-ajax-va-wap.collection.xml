@@ -1,3 +1,26 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10828</md:content-id>  <md:title>Giáo trình tổng quan về Ajax và Wap</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>2d13fd8c-05ab-45cd-a90a-5a563c0c6557</md:uuid>
-<md:slug>giao-trinh-tong-quan-ve-ajax-va-wap</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Chương 1: Công nghệ Ajax và ứng dụng</md:title>                                <col:content>                    <col:module document="m28856"/>                            <col:module document="m28953"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Chương 2: Công nghệ Wap và ứng dụng</md:title>                                <col:content>                    <col:module document="m29023"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="&#x110;&#x1EB7;ng Vi&#x1EC7;t Ph&#x1B0;&#x1A1;ng">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10828</md:content-id>
+    <md:title>Gi&#xE1;o tr&#xEC;nh t&#x1ED5;ng quan v&#x1EC1; Ajax v&#xE0; Wap</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>2d13fd8c-05ab-45cd-a90a-5a563c0c6557</md:uuid>
+    <md:slug>giao-trinh-tong-quan-ve-ajax-va-wap</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Ch&#x1B0;&#x1A1;ng 1: C&#xF4;ng ngh&#x1EC7; Ajax v&#xE0; &#x1EE9;ng d&#x1EE5;ng</md:title>
+      <col:content>
+        <col:module document="m28856"/>
+        <col:module document="m28953"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Ch&#x1B0;&#x1A1;ng 2: C&#xF4;ng ngh&#x1EC7; Wap v&#xE0; &#x1EE9;ng d&#x1EE5;ng</md:title>
+      <col:content>
+        <col:module document="m29023"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
